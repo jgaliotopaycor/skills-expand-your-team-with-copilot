@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "⚡ PLUS ULTRA! Your manga destiny awaits! Whether you live for earth-shattering shonen showdowns, swoon-worthy shoujo romance, mind-bending isekai adventures, or spine-chilling horror — this is YOUR crew. Unite with fellow otaku, debate the greatest story arcs ever drawn, and unlock the secrets behind the panels that make manga the most powerful storytelling art form on the planet. Your next obsession starts HERE! 🎌📖",
+        "schedule": "Tuesdays, 5:00 PM - 6:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:00"
+        },
+        "max_participants": 25,
+        "participants": []
     }
 }
 
